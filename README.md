@@ -14,18 +14,18 @@ My professional background in research and development has developed my soft ski
 
 
 # Courses
-*Academy Course at uTest.com
-*Intro to SQL: Querying and managing data at Khan Academy
-*Basics of manual software testing at Udemy.com
-*Introduction to Git and GitHub at Udemy.com
-*Courses at codecademy.com: SQL, Ruby, HTML
-*Rails Girls, Cracow
+* Academy Course at uTest.com
+* Intro to SQL: Querying and managing data at Khan Academy
+* Basics of manual software testing at Udemy.com
+* Introduction to Git and GitHub at Udemy.com
+* Courses at codecademy.com: SQL, Ruby, HTML
+* Rails Girls, Cracow
 
 # Books
 *
 
 # Groups on Facebook
-*[Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
 
 # Blogs read
 
